@@ -16,7 +16,8 @@
   },
   "homepage": "https://github.com/thlorenz/valuepack-mine-npmatchub-users",
   "dependencies": {
-    "valuepack-core": "~0.3.0"
+    "valuepack-core": "~0.3.0",
+    "concat-stream": "~1.0.0"
   },
   "devDependencies": {
     "nave": "~0.4.3",
