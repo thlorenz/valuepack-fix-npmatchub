@@ -1,8 +1,6 @@
-# valuepack-mine-npmatchub-users
-[![build status](https://secure.travis-ci.org/thlorenz/valuepack-mine-npmatchub-users.png)](http://travis-ci.org/thlorenz/valuepack-mine-npmatchub-users)
+# valuepack-mine-npmatchub [![build status](https://secure.travis-ci.org/thlorenz/valuepack-mine-npmatchub.png)](http://travis-ci.org/thlorenz/valuepack-mine-npmatchub)
 
-Attempts to match npm users who failed to provide their github name with a github account.
-
+Attempts to match npm users who failed to provide their github name with a github account and do the same for their npm packages.
 ```js
 // TODO
 ```
@@ -12,7 +10,7 @@ Attempts to match npm users who failed to provide their github name with a githu
 Nix, Nada, Nichevo, Nothing --> go away!
 ## Installation
 
-    npm install valuepack-mine-npmatchub-users
+    npm install valuepack-mine-npmatchub
 
 ## API
 
