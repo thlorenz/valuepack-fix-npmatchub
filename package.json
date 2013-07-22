@@ -1,7 +1,7 @@
 {
   "name": "valuepack-mine-npmatchub",
   "version": "0.0.0",
-  "description": "Attempts to match npm users who failed to provide their github name with a github account and do the same for their npm packages.",
+  "description": "Fill in missing github related information during and after data mining",
   "main": "index.js",
   "scripts": {
     "test-main": "tap test/*.js",
@@ -18,7 +18,8 @@
   "dependencies": {
     "valuepack-core": "~0.3.0",
     "concat-stream": "~1.0.0",
-    "through": "~2.3.4"
+    "through": "~2.3.4",
+    "npmatchub": "~0.1.0"
   },
   "devDependencies": {
     "nave": "~0.4.3",
