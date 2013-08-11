@@ -1,5 +1,5 @@
 {
-  "name": "valuepack-mine-npmatchub",
+  "name": "valuepack-fix-npmatchub",
   "version": "0.0.0",
   "description": "Fill in missing github related information during and after data mining",
   "main": "index.js",
@@ -12,9 +12,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/thlorenz/valuepack-mine-npmatchub.git"
+    "url": "git://github.com/thlorenz/valuepack-fix-npmatchub.git"
   },
-  "homepage": "https://github.com/thlorenz/valuepack-mine-npmatchub",
+  "homepage": "https://github.com/thlorenz/valuepack-fix-npmatchub",
   "dependencies": {
     "valuepack-core": "~0.3.0",
     "concat-stream": "~1.0.0",
@@ -33,7 +33,7 @@
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/thlorenz/valuepack-mine-npmatchub/blob/master/LICENSE"
+    "url": "https://github.com/thlorenz/valuepack-fix-npmatchub/blob/master/LICENSE"
   },
   "engine": {
     "node": ">=0.6"
