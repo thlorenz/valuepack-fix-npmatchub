@@ -19,7 +19,7 @@
     "valuepack-core": "~0.3.0",
     "concat-stream": "~1.0.0",
     "through": "~2.3.4",
-    "npmatchub": "~0.1.0"
+    "npmatchub": "~0.1.1"
   },
   "devDependencies": {
     "nave": "~0.4.3",
